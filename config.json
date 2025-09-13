@@ -1,14 +1,9 @@
 {
-  "defaultHomeserver": 2,
+  "defaultHomeserver": 0,
   "homeserverList": [
-    "converser.eu",
-    "envs.net",
-    "matrix.org",
-    "monero.social",
-    "mozilla.org",
-    "xmr.se"
+    "whooping.yeen.town"
   ],
-  "allowCustomHomeservers": true,
+  "allowCustomHomeservers": false,
 
   "featuredCommunities": {
     "openAsDefault": false,
@@ -28,7 +23,7 @@
       "#PrivSec.dev:arcticfoxes.net",
       "#disroot:aria-net.org"
     ],
-    "servers": ["envs.net", "matrix.org", "monero.social", "mozilla.org"]
+    "servers": ["whooping.yeen.town", "envs.net", "matrix.org", "monero.social", "mozilla.org"]
   },
 
   "hashRouter": {
